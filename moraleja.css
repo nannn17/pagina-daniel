@@ -1,0 +1,49 @@
+h1 {
+    text-align: left;
+    color: rgb(14, 88, 163);
+    display: table;
+    font-family: "proxima-soft", "Proxima Soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+    line-height: 1.25;
+    letter-spacing: .03em;
+    margin: 0 auto;
+    max-width: 90%;
+    text-align: left;
+    text-transform: uppercase;
+    z-index: 0;
+    background-color: rgb(80, 90, 99);
+}
+
+p {
+    text-align:left;
+    color: rgb(59, 254, 11);
+    font-family: "proxima-soft", "Proxima Soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+
+
+}
+
+.interlineado {
+    line-height: 200%;
+}
+
+Body {
+    Background-color: #ad1c1c;
+}
+
+a {
+    text-align: left;
+    color: blueviolet;
+}
+
+a,div{
+    text-align: left;
+    font-family: "Cabin",Helvetica,sans-serif;
+    font-size: 16px;
+}
+
+.fcc-btn {
+    background-color: #daae0f;
+    color: rgb(212, 106, 106);
+    padding: 10px 10px;
+    text-decoration: none;
+  }

@@ -1,0 +1,30 @@
+h3{
+    text-align:right;
+    font-family: "proxima-soft", "Proxima Soft", "Proxima Nova Soft", Helvetica, Arial, sans-serif;
+    color: rgb(10, 139, 251);
+}
+
+a{text-align: center;
+
+        display: block;
+        margin: auto;
+      
+
+}
+
+Body {
+    Background-color: #ee9ab0;
+}
+
+a,div{
+    text-align: center;
+    font-family: "Cabin",Helvetica,sans-serif;
+    font-size: 16px;
+}
+
+.fcc-btn {
+    background-color: #ff0606;
+    color: rgb(12, 0, 0);
+    padding: 10px 10px;
+    text-decoration: none;
+  }

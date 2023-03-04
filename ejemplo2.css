@@ -1,0 +1,19 @@
+/* ejemplo_2_1.css*/
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.resaltado {
+    color: rgb(189, 12, 212);
+
+}
+
+Body {
+    Background-color : #28f0e6;
+}
